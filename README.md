@@ -23,5 +23,5 @@ __evaluation.recallByLabel -->Out[26]: [0.9719626168224299, 0.9384615384615385]_
 
 il DataFrame alla fine conterrà due nuove colonne:
 * __Prediction:__  (0=benigno, 1=maligno)
-*__Probabily:__  probabilità di apparteneza alle due classi.
+* __Probabily:__  probabilità di apparteneza alle due classi.
 
